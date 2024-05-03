@@ -3,4 +3,4 @@ Ini adalah homepag yg menunya:
 2. project portfolio
 3. contact
 4. blog dan tutorial
-5. donasi dan lowongan
+5. donasi atau lowongan

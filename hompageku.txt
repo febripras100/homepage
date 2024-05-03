@@ -1,0 +1,6 @@
+Ini adalah homepag yg menunya:
+1. home
+2. project portfolio
+3. contact
+4. blog
+5. tutorial

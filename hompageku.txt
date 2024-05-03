@@ -2,6 +2,5 @@ Ini adalah homepag yg menunya:
 1. home
 2. project portfolio
 3. contact
-4. blog
-5. tutorial
-6. donasi dan lowongan
+4. blog dan tutorial
+5. donasi dan lowongan

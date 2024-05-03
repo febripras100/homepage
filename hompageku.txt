@@ -4,3 +4,4 @@ Ini adalah homepag yg menunya:
 3. contact
 4. blog dan tutorial
 5. donasi atau lowongan
+6. Siapa sih
